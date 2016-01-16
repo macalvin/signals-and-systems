@@ -21,7 +21,7 @@ It is also possible to run these notebooks in the cloud using the [Juliabox] ser
 5. In the *signals-and-systems* directory, click on the *notebooks* directory, and then click on the notebook named `00-Initialize.ipynb`
 6. Wait for the kernel to finish connecting. The status is shown in a box left of the kernel version `Julia 0.4.2`. If there is no box, the kernel is loaded.
   ![kernel_status.jpg](img/kernel_status.jpg)
-7. Run all cells by clicking on the file menu **`Cell>Run all`**. It takes a few minutes to download and install the  required packages. When a cell is being executed, there is a **`[\*]`** on the left side of the cell. Do not be alarmed if you see some warning like this.
+7. Run all cells by clicking on the file menu **`Cell>Run all`**. It takes a few minutes to download and install the  required packages. When a cell is being executed, there is a **`[*]`** on the left side of the cell. Do not be alarmed if you see some warnings & errors like this.
   ![error.jpg](img/error.jpg)
 8. Restart the kernel by clicking on the file menu **Kernel>Restart**
 9. Rerun all the cells **Cell>Run all**. This time there should be no errors; warnings can be ignored.
